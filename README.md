@@ -1,4 +1,5 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - NFT preview card component
+ solution
 
 ## Welcome! 👋
 
