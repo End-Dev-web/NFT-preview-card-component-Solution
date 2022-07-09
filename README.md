@@ -17,7 +17,7 @@ Thanks for checking out this front-end coding challenge.
 ### Links
 
 - Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://end-dev-web.github.io/NFT-preview-card-component-solution/)
 - watch video tutorial: [NFT preview card component solution](https://www.youtube.com/watch?v=SRbpVODKLwQ)
 
 ## My process
